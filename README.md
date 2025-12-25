@@ -77,7 +77,7 @@ flutter run
 ## 📸 Screenshots & Demo
 
 ### App Demo
-<video src="./metadata/demo.mov" width="100%" controls>
+<video src="metadata/demo.mp4" controls="controls" style="max-width: 100%;">
   Your browser does not support the video tag.
 </video>
 
