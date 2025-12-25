@@ -77,7 +77,9 @@ flutter run
 ## 📸 Screenshots & Demo
 
 ### App Demo
-![App Demo](./metadata/Screen%20Recording%202025-12-25%20at%202.45.55%E2%80%AFAM.mov)
+<video src="./metadata/demo.mov" width="100%" controls>
+  Your browser does not support the video tag.
+</video>
 
 ### Dashboard Light & Dark Mode
 <p align="center">
